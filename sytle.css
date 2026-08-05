@@ -1,1 +1,26 @@
+body {
+    background-color:#34DAA0 ;
+    color: #0A3A1C ;
+    font-family:Arial, sans-serif;
 
+}
+
+header {
+    background-color:#34DAA0;
+    color:#0A3A1C;
+    text-align:center;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    color: #f08181;
+}
+
+p {
+    font-size: 18px;
+    line-height:1.6;
+}
