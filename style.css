@@ -31,11 +31,12 @@ nav {
    nav a {
      color:white;
      text-decoration: none;
-     background-color: #2cb19f
+     background-color: #2cb19f;
      padding: 10px 15px;
-     bonder-radius: 8px;
+     border-radius: 8px;
      margin: 5px;
      display: inline-block;
+     
  }
 
    nav a:hover {
