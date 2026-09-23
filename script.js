@@ -8,8 +8,9 @@ function curtir(){
         contador.textContent++;
         curtiu = true;}
         else{
-            contador.textCOntent--;
+            contador.textContent--;
             curtiu = false;
         }
 }
 });
+
