@@ -50,7 +50,7 @@ main {
 }
 
 section {
-    background-color: white;
+    background-color: rgb(7, 7, 7);
     margin: 20px;
     padding: 20px;
     border-radius: 12px;
@@ -93,7 +93,7 @@ footer {
 
 button {
     background-color: #096b4a22; 
-    color: white;
+    color: rgb(230, 177, 32);
     border: none;
     padding: 10px 15px;
     border-radius: 8px;
