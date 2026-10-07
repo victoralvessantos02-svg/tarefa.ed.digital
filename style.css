@@ -1,3 +1,17 @@
+:root{
+    --cor-fundo: #34DAA0;
+    --cor-texto: #0A3A1C;
+    --cor-principal: #205e38;
+    --cor-segundaria:#0A3A1C;
+    --cor-hover:#0A3A1C;
+    --cor-superficie:#0A3A1C;
+    --cor-card:#0A3A1C;
+    --cor-legenda:#0A3A1C;
+    --cor-clara:#0A3A1C;
+    --cor-rodape:#0A3A1C;
+
+}
+
 body {
     background-color:#34DAA0 ;
     color: #0A3A1C ;
@@ -31,6 +45,7 @@ nav {
    nav a {
      color:white;
      text-decoration: none;
+
      background-color: #2cb19f;
      padding: 10px 15px;
      border-radius: 8px;
@@ -50,7 +65,7 @@ main {
 }
 
 section {
-    background-color: rgb(7, 7, 7);
+    background-color: rgb(255, 247, 247);
     margin: 20px;
     padding: 20px;
     border-radius: 12px;
