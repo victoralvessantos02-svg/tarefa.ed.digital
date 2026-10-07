@@ -8,13 +8,17 @@
     --cor-card:#0A3A1C;
     --cor-legenda:#0A3A1C;
     --cor-clara:#0A3A1C;
-    --cor-rodape:#0A3A1C;
+    --cor-rodape:#000000;
 
 }
 
 body {
     background-color:#34DAA0 ;
-    color: #0A3A1C ;
+    color: #0A3A1C ;Site desenvolvido por: Victor alves dos santos
+
+turma:1°G
+
+Projeto integrado entre Educação Digital e Arte
     font-family:Arial, sans-serif;
     margin: 0;
 }
