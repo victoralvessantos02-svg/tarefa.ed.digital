@@ -1,12 +1,12 @@
 :root{
     --cor-fundo: #34DAA0;
-    --cor-texto: #0A3A1C;
-    --cor-principal: #205e38;
-    --cor-segundaria:#0A3A1C;
-    --cor-hover:#0A3A1C;
-    --cor-superficie:#0A3A1C;
-    --cor-card:#0A3A1C;
-    --cor-legenda:#0A3A1C;
+    --cor-texto: hwb(144 2% 93%);
+    --cor-principal: #1b492d;
+    --cor-segundaria:#316e48;
+    --cor-hover:#33d49c;
+    --cor-superficie:#ffffff;
+    --cor-card:#29bd62;
+    --cor-legenda:#82b394;
     --cor-clara:#0A3A1C;
     --cor-rodape:#000000;
 
