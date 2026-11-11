@@ -13,11 +13,11 @@
 }
 
 .tema-escuro {
-    --cor-fundo: black;
+    --cor-fundo: #187252;
     --cor-texto-: white;
-    --cor-principal: #33d49c;
+    --cor-principal: #187252;
     --cor-superficie: black;
-    --cor-card: black;
+    --cor-card: #073a1b;
 }
 
 body {
