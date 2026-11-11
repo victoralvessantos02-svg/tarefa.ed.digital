@@ -12,6 +12,14 @@
 
 }
 
+.tema-escuro {
+    --cor-fundo: black;
+    --cor-texto-: white;
+    --cor-principal: #33d49c;
+    --cor-superficie: black;
+    --cor-card: black;
+}
+
 body {
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
